@@ -1,0 +1,51 @@
+
+    body {
+      margin: 0;
+      padding: 0;
+      height: 100vh;
+      font-family: 'Inter', sans-serif;
+      background: url('/background/libary.jpg') no-repeat center center/cover;
+    }
+    .overlay {
+      position: absolute;
+      top: 0; left: 0;
+      width: 100%; height: 100%;
+      background-color: rgba(67, 211, 158, 0.082);
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      color: rgb(83, 83, 81);
+      text-align: center;
+      padding: 20px;
+      backdrop-filter: blur(3px); /* độ mờ */
+    }
+    h1 {
+      font-weight: 700;
+      margin-bottom: 40px;
+    }
+    .btn-main {
+      background-color: rgb(20, 151, 103);
+      border: none;
+      padding: 15px 40px;
+      font-size: 1.2rem;
+      font-weight: 600;
+      border-radius: 30px;
+      margin: 10px;
+      transition: 0.3s;
+      width: 250px;
+    }
+    .btn-main:hover {
+      background-color: rgb(50, 230, 167);
+      transform: scale(1.05);
+    }
+    .menu-box {
+  background: rgba(255, 255, 255, 0.9); /* nền trắng trong suốt nhẹ */
+  border-radius: 20px;                  /* bo tròn */
+  padding: 40px 30px;                   /* khoảng cách bên trong */
+  box-shadow: 0 8px 20px rgba(0,0,0,0.2); /* đổ bóng cho nổi bật */
+  
+  width: 380px;
+  
+
+}

@@ -1,0 +1,19 @@
+
+    body {
+      background: #f8f9fa;
+      font-family: 'Inter', sans-serif;
+      padding: 30px;
+    }
+    h1 {
+      color: #059862;
+      margin-bottom: 20px;
+    }
+    .table {
+      border-radius: 8px;
+      overflow: hidden;
+    }
+    .btn-sm {
+      padding: 2px 8px;
+      font-size: 0.85rem;
+    }
+ 
