@@ -31,7 +31,7 @@ Chọn một chức năng:
 Tại đây, bạn có thể xem danh sách từ vựng hiện có và thực hiện các thao tác thêm, sửa, xóa.  
 
 **Danh sách từ vựng:**  
-![Danh sách từ vựng](/images/menu.png)
+![Danh sách từ vựng](/images/manage.png)
 
 **Thêm từ vựng:**  
 ![Thêm từ vựng](/images/add_word.png)
